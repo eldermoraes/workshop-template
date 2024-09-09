@@ -1,6 +1,6 @@
-site_name: Workshop Template
-site_url: https://eldermoraes.github.io/workshop-template
-repo_url: https://github.com/eldermoraes/workshop-template
+site_name: Do Cloud Native à IA com Java e Quarkus
+site_url: https://eldermoraes.github.io/cloudnative-ia
+repo_url: https://github.com/eldermoraes/cloudnative-ia
 theme:
   name: material
   palette:
