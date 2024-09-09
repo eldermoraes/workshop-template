@@ -1,0 +1,24 @@
+site_name: Workshop Template
+site_url: https://eldermoraes.github.io/workshop-template
+repo_url: https://github.com/eldermoraes/workshop-template
+theme:
+  name: material
+  palette:
+    primary: black
+    scheme: slate
+    accent: yellow
+  favicon: images/duke_champion.png
+  logo: assets/logo-dev-transp.png
+  icon:
+    repo: fontawesome/brands/github-alt
+extra:
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+copyright: >
+  Copyright &copy; 2024 Elder Moraes –
+  <a href="#__consent">Change cookie settings</a>
